@@ -1,5 +1,5 @@
-Moyenne de l'élève: 1: 11.83  
-Moyenne de l'élève: 2: 15  
-Moyenne de l'élève: 3: 11.67  
-Moyenne de la classe: 12.83 
-
+Moyenne de l'élève: A: 5  
+Moyenne de l'élève: B: 15  
+Moyenne de l'élève: C: 13.75  
+Moyenne de la classe: 11.25 
+sse: 11.25 
